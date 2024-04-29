@@ -16,4 +16,3 @@
  <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <div><br/>
-Olá! Meu nome é Cristiane Cloe e tenho 18 anos, amo programação e design!
